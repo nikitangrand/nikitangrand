@@ -5,7 +5,7 @@
 - Понимание ООП, структур данных, алгоритмов
 
 **Databases:**
-- PostgreSQL, SQL (базовые запросы, JOIN, индексы)
+- PostgreSQL, SQL
 
 **Tools:**
 - Git, базовый Docker
